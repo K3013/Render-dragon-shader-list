@@ -104,6 +104,7 @@ The following Table of contents is automatically updated by the "Markdown All in
     - [BetterRTX](#betterrtx)
   - [Vibrant Visuals](#vibrant-visuals)
     - [Lynx's Post Processing](#lynxs-post-processing)
+    - [Klash Shaders](#klash-shaders)
   - [Utility Shaders](#utility-shaders)
     - [RenderDragon FullBright](#renderdragon-fullbright)
     - [RenderDragonFogRemover](#renderdragonfogremover)
